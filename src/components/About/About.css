@@ -1,0 +1,26 @@
+.features{
+    margin:2rem;
+}
+.dd{
+    display: flex;
+    margin:10px;
+}
+.dd img{
+    padding-right:12px; 
+    margin-top:3px;
+    
+}
+.hading{
+    margin-top:1rem;
+}
+.Header{
+    margin:70px;
+    border-top:3px solid black;
+   padding: 20px;
+}
+.Learnmore{
+    display:flex ;
+    justify-content: center;
+    text-align: center;
+  
+}

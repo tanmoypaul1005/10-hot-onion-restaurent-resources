@@ -1,0 +1,21 @@
+
+.header{
+    bottom: 8px;
+    right: 16px;
+    width: 100%;
+    margin-bottom: 40px;
+}
+.banner{
+width: 100%;    
+}
+
+.centered {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.mybutton{
+    border-radius:5px;
+}

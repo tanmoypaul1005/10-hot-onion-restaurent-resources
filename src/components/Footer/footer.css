@@ -1,0 +1,23 @@
+.footer{
+    display: flex;
+    font-size: 13px;
+}
+.body{
+    background-color: black; 
+    height: 24rem;
+    padding-top: 5rem; 
+    padding-left:5rem;
+    color: white;
+}
+.list{
+    display: flex; 
+   
+}
+footer {
+    font-size: 12px;
+    /* padding-top: 40px; */
+    display:flex;
+   justify-content: center;
+   align-items:center;
+   margin-top: 5rem;
+}
